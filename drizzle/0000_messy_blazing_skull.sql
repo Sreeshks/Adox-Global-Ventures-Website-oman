@@ -1,4 +1,4 @@
-CREATE TABLE `cms_history` (
+CREATE TABLE IF NOT EXISTS `cms_history` (
 	`revision` integer PRIMARY KEY NOT NULL,
 	`content` text NOT NULL,
 	`updated_at` text NOT NULL,
@@ -6,7 +6,7 @@ CREATE TABLE `cms_history` (
 	`operation` text NOT NULL
 );
 --> statement-breakpoint
-CREATE TABLE `cms_state` (
+CREATE TABLE IF NOT EXISTS `cms_state` (
 	`id` text PRIMARY KEY NOT NULL,
 	`revision` integer NOT NULL,
 	`content` text NOT NULL,
