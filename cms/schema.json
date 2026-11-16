@@ -1,0 +1,2859 @@
+{
+  "version": 1,
+  "contacts": {
+    "phone": "+968 9696 7420",
+    "email": "info@adoxglobal.om",
+    "location": "Muscat, Oman",
+    "indiaUrl": "https://www.adoxglobal.com/",
+    "uaeUrl": "https://www.adoxglobal.com/ae"
+  },
+  "pages": [
+    {
+      "route": "/about/",
+      "name": "About Adox Global Ventures"
+    },
+    {
+      "route": "/contact/",
+      "name": "Contact Adox Global Ventures"
+    },
+    {
+      "route": "/faq/",
+      "name": "Frequently Asked Questions"
+    },
+    {
+      "route": "/",
+      "name": "Home"
+    },
+    {
+      "route": "/insights/campaign-goals/",
+      "name": "Start Your Campaign with a Clear Goal"
+    },
+    {
+      "route": "/insights/",
+      "name": "Digital Marketing Insights"
+    },
+    {
+      "route": "/insights/local-search-oman/",
+      "name": "Help Customers Find Your Business in Oman"
+    },
+    {
+      "route": "/insights/mobile-website-checklist/",
+      "name": "Is Your Website Ready for Mobile Visitors?"
+    },
+    {
+      "route": "/privacy/",
+      "name": "Privacy Information"
+    },
+    {
+      "route": "/services/branding-content/",
+      "name": "Branding & Visual Content"
+    },
+    {
+      "route": "/services/digital-strategy/",
+      "name": "Digital Marketing Strategy"
+    },
+    {
+      "route": "/services/",
+      "name": "Digital Marketing Services"
+    },
+    {
+      "route": "/services/paid-advertising/",
+      "name": "Google & Meta Advertising"
+    },
+    {
+      "route": "/services/search-engine-optimization/",
+      "name": "Search Engine Optimization"
+    },
+    {
+      "route": "/services/social-media-marketing/",
+      "name": "Social Media Marketing"
+    },
+    {
+      "route": "/services/web-design-development/",
+      "name": "Website Design & Development"
+    }
+  ],
+  "fields": {
+    "meta.3b79d51135.title": {
+      "id": "meta.3b79d51135.title",
+      "group": "/about/",
+      "label": "Page title",
+      "value": "About Adox Global Ventures | Adox Global Ventures Oman",
+      "html": "About Adox Global Ventures | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.3b79d51135.description": {
+      "id": "meta.3b79d51135.description",
+      "group": "/about/",
+      "label": "Search description",
+      "value": "Meet Adox Global Ventures, your digital marketing and website development partner in Oman.",
+      "html": "Meet Adox Global Ventures, your digital marketing and website development partner in Oman.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.f5e55684ef32317c": {
+      "id": "copy.f5e55684ef32317c",
+      "group": "/about/",
+      "label": "Paragraph",
+      "value": "About Adox Global Ventures",
+      "html": "About Adox Global Ventures",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.07fa3bf0da37ca2b": {
+      "id": "copy.07fa3bf0da37ca2b",
+      "group": "/about/",
+      "label": "Main heading",
+      "value": "A Digital Partner\n for Your Business in Oman.",
+      "html": "A Digital Partner<br> for Your Business in Oman.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.f2716be2ec1f666d": {
+      "id": "copy.f2716be2ec1f666d",
+      "group": "/about/",
+      "label": "Paragraph",
+      "value": "Strategy, creativity and technology brought together around your next step.",
+      "html": "Strategy, creativity and technology brought together around your next step.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.96aaf75d3ab1db3c": {
+      "id": "copy.96aaf75d3ab1db3c",
+      "group": "/about/",
+      "label": "Paragraph",
+      "value": "Your digital partner in Oman",
+      "html": "Your digital partner in Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.2b56a417a4f0d6ae": {
+      "id": "copy.2b56a417a4f0d6ae",
+      "group": "/about/",
+      "label": "Section heading",
+      "value": "A Full Range of Digital Marketing Services for Your Business",
+      "html": "A Full Range of Digital Marketing Services for Your Business",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.978df74385eb23c8": {
+      "id": "copy.978df74385eb23c8",
+      "group": "Company relationship",
+      "label": "Paragraph",
+      "value": "Adox Global Ventures is the Oman extension of Adox Global, Kochi, India. The Adox network has a presence in India, the UAE, Oman and Bahrain.",
+      "html": "Adox Global Ventures is the Oman extension of Adox Global, Kochi, India. The Adox network has a presence in <strong>India, the UAE, Oman and Bahrain.</strong>",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.dd558679b2130315": {
+      "id": "copy.dd558679b2130315",
+      "group": "/about/",
+      "label": "Paragraph",
+      "value": "We bring together digital marketing, website development and creative content for businesses in Oman. From building a clear online presence to planning your next campaign, we help you connect the right channels around your goals.",
+      "html": "We bring together digital marketing, website development and creative content for businesses in Oman. From building a clear online presence to planning your next campaign, we help you connect the right channels around your goals.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.cabd87d533478d4d": {
+      "id": "copy.cabd87d533478d4d",
+      "group": "/about/",
+      "label": "Subheading",
+      "value": "Create, develop and optimise your website, social pages and digital campaigns.",
+      "html": "Create, develop and optimise your website, social pages and digital campaigns.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.416b19bcd80ec743": {
+      "id": "copy.416b19bcd80ec743",
+      "group": "/about/",
+      "label": "List item",
+      "value": "Local focus. Content and campaigns shaped around your customers and your market.",
+      "html": "<strong>Local focus.</strong> Content and campaigns shaped around your customers and your market.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.e3d2be9e7c0b15e9": {
+      "id": "copy.e3d2be9e7c0b15e9",
+      "group": "/about/",
+      "label": "List item",
+      "value": "Connected services. Search, social, creative and web development working together.",
+      "html": "<strong>Connected services.</strong> Search, social, creative and web development working together.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.e6a97b07c3363e5d": {
+      "id": "copy.e6a97b07c3363e5d",
+      "group": "/about/",
+      "label": "List item",
+      "value": "A plan for your business. Practical priorities based on where you are and what you want to achieve.",
+      "html": "<strong>A plan for your business.</strong> Practical priorities based on where you are and what you want to achieve.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.fc652603008d7bd0": {
+      "id": "copy.fc652603008d7bd0",
+      "group": "/about/",
+      "label": "List item",
+      "value": "Clear measurement. Review the signals that matter and refine the next steps.",
+      "html": "<strong>Clear measurement.</strong> Review the signals that matter and refine the next steps.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.debfdc48afe7afac": {
+      "id": "copy.debfdc48afe7afac",
+      "group": "/about/",
+      "label": "Paragraph",
+      "value": "How we work",
+      "html": "How we work",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ea4e4d275d1de149": {
+      "id": "copy.ea4e4d275d1de149",
+      "group": "/about/",
+      "label": "Section heading",
+      "value": "From Understanding\n to Action.",
+      "html": "From Understanding<br> to Action.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.6feea0ac4c8423e2": {
+      "id": "copy.6feea0ac4c8423e2",
+      "group": "/about/",
+      "label": "Subheading",
+      "value": "Understand",
+      "html": "Understand",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.259d2cff2316eea0": {
+      "id": "copy.259d2cff2316eea0",
+      "group": "/about/",
+      "label": "Paragraph",
+      "value": "We begin with your business, audience and current digital presence.",
+      "html": "We begin with your business, audience and current digital presence.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.de1c13551352c1af": {
+      "id": "copy.de1c13551352c1af",
+      "group": "/about/",
+      "label": "Subheading",
+      "value": "Plan",
+      "html": "Plan",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.4c893eb7a06aeb04": {
+      "id": "copy.4c893eb7a06aeb04",
+      "group": "/about/",
+      "label": "Paragraph",
+      "value": "We agree priorities, channels and the scope of work.",
+      "html": "We agree priorities, channels and the scope of work.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.9bce7f41d60cfc71": {
+      "id": "copy.9bce7f41d60cfc71",
+      "group": "/about/",
+      "label": "Subheading",
+      "value": "Create & launch",
+      "html": "Create & launch",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.dea9c301307f5630": {
+      "id": "copy.dea9c301307f5630",
+      "group": "/about/",
+      "label": "Paragraph",
+      "value": "We develop the content, website or campaign your plan needs.",
+      "html": "We develop the content, website or campaign your plan needs.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.fd3c299d9a39bfb1": {
+      "id": "copy.fd3c299d9a39bfb1",
+      "group": "/about/",
+      "label": "Subheading",
+      "value": "Review & refine",
+      "html": "Review & refine",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.9f39b4947c1cb217": {
+      "id": "copy.9f39b4947c1cb217",
+      "group": "/about/",
+      "label": "Paragraph",
+      "value": "We use feedback and reporting to guide what happens next.",
+      "html": "We use feedback and reporting to guide what happens next.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.893fe2d759a4ab6d": {
+      "id": "copy.893fe2d759a4ab6d",
+      "group": "/about/",
+      "label": "Paragraph",
+      "value": "Your next step",
+      "html": "Your next step",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.4d4441248fe6a003": {
+      "id": "copy.4d4441248fe6a003",
+      "group": "/about/",
+      "label": "Section heading",
+      "value": "Let’s put your business\n in front of the right people.",
+      "html": "Let’s put your business<br> in front of the right people.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.32c4598591ce836d": {
+      "id": "copy.32c4598591ce836d",
+      "group": "/about/",
+      "label": "Paragraph",
+      "value": "Tell us where you are today and where you want to go.",
+      "html": "Tell us where you are today and where you want to go.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.0cb5c7df3441af3d": {
+      "id": "copy.0cb5c7df3441af3d",
+      "group": "Shared footer",
+      "label": "Section heading",
+      "value": "Adox Global\n Ventures LLC.",
+      "html": "Adox Global<br> <strong>Ventures LLC.</strong>",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.30e34cd0604b8753": {
+      "id": "copy.30e34cd0604b8753",
+      "group": "Company relationship",
+      "label": "Paragraph",
+      "value": "Adox Global Ventures is the Oman extension of Adox Global, Kochi, India. Digital marketing, website development and creative content for businesses in Oman.",
+      "html": "Adox Global Ventures is the Oman extension of Adox Global, Kochi, India. Digital marketing, website development and creative content for businesses in Oman.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.8a8011350fdff213": {
+      "id": "copy.8a8011350fdff213",
+      "group": "Company relationship",
+      "label": "Paragraph",
+      "value": "Our presenceIndia · UAE · Oman · Bahrain",
+      "html": "<span>Our presence</span>India · UAE · Oman · Bahrain",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.690dc6bd9c6537c6": {
+      "id": "copy.690dc6bd9c6537c6",
+      "group": "Shared footer",
+      "label": "Subheading",
+      "value": "Our services",
+      "html": "Our services",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ff41d1d97cee920b": {
+      "id": "copy.ff41d1d97cee920b",
+      "group": "Shared footer",
+      "label": "Subheading",
+      "value": "Explore",
+      "html": "Explore",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.3122b0b8b335e8d0": {
+      "id": "copy.3122b0b8b335e8d0",
+      "group": "Shared footer",
+      "label": "Subheading",
+      "value": "Get in touch",
+      "html": "Get in touch",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "meta.638fc45cbd.title": {
+      "id": "meta.638fc45cbd.title",
+      "group": "/contact/",
+      "label": "Page title",
+      "value": "Contact Adox Global Ventures | Adox Global Ventures Oman",
+      "html": "Contact Adox Global Ventures | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.638fc45cbd.description": {
+      "id": "meta.638fc45cbd.description",
+      "group": "/contact/",
+      "label": "Search description",
+      "value": "Contact Adox Global Ventures in Muscat, Oman at +968 9696 7420 or info@adoxglobal.om.",
+      "html": "Contact Adox Global Ventures in Muscat, Oman at +968 9696 7420 or info@adoxglobal.om.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.46b10b837c745abe": {
+      "id": "copy.46b10b837c745abe",
+      "group": "/contact/",
+      "label": "Paragraph",
+      "value": "Let’s connect",
+      "html": "Let’s connect",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.3a81194777f15ba5": {
+      "id": "copy.3a81194777f15ba5",
+      "group": "/contact/",
+      "label": "Main heading",
+      "value": "Tell Us What You\n Want to Achieve.",
+      "html": "Tell Us What You<br> Want to Achieve.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.5c76fb4b73de3ed1": {
+      "id": "copy.5c76fb4b73de3ed1",
+      "group": "/contact/",
+      "label": "Paragraph",
+      "value": "Whether you are building your online presence or improving an existing one, let’s start with a conversation.",
+      "html": "Whether you are building your online presence or improving an existing one, let’s start with a conversation.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.f6e50dd5840e55e9": {
+      "id": "copy.f6e50dd5840e55e9",
+      "group": "/contact/",
+      "label": "Paragraph",
+      "value": "Adox Global Ventures LLC",
+      "html": "Adox Global Ventures LLC",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.7d368da668456fea": {
+      "id": "copy.7d368da668456fea",
+      "group": "/contact/",
+      "label": "Section heading",
+      "value": "Get in Touch",
+      "html": "Get in Touch",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.daa0782390c984ef": {
+      "id": "copy.daa0782390c984ef",
+      "group": "/contact/",
+      "label": "Paragraph",
+      "value": "Looking for another Adox website?",
+      "html": "Looking for another Adox website?",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.99f943d02c4b3d66": {
+      "id": "copy.99f943d02c4b3d66",
+      "group": "/contact/",
+      "label": "Section heading",
+      "value": "Start a Conversation",
+      "html": "Start a Conversation",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.21452900641db0d8": {
+      "id": "copy.21452900641db0d8",
+      "group": "/contact/",
+      "label": "Subheading",
+      "value": "Your email is ready",
+      "html": "Your email is ready",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.055ea7c5998d2192": {
+      "id": "copy.055ea7c5998d2192",
+      "group": "/contact/",
+      "label": "Paragraph",
+      "value": "Open your email app, review the details, and send when you’re ready.",
+      "html": "Open your email app, review the details, and send when you’re ready.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "meta.32e40b8573.title": {
+      "id": "meta.32e40b8573.title",
+      "group": "/faq/",
+      "label": "Page title",
+      "value": "Frequently Asked Questions | Adox Global Ventures Oman",
+      "html": "Frequently Asked Questions | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.32e40b8573.description": {
+      "id": "meta.32e40b8573.description",
+      "group": "/faq/",
+      "label": "Search description",
+      "value": "Answers to common questions about working with Adox Global Ventures in Oman.",
+      "html": "Answers to common questions about working with Adox Global Ventures in Oman.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.fe365a25c63cf444": {
+      "id": "copy.fe365a25c63cf444",
+      "group": "/faq/",
+      "label": "Paragraph",
+      "value": "Frequently asked questions",
+      "html": "Frequently asked questions",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.684bc89031199077": {
+      "id": "copy.684bc89031199077",
+      "group": "/faq/",
+      "label": "Main heading",
+      "value": "A Few Things\n You May Want to Know.",
+      "html": "A Few Things<br> You May Want to Know.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.e637ba6ef6c39565": {
+      "id": "copy.e637ba6ef6c39565",
+      "group": "/faq/",
+      "label": "Paragraph",
+      "value": "Clear answers before we start the conversation.",
+      "html": "Clear answers before we start the conversation.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.455c5e87673e459e": {
+      "id": "copy.455c5e87673e459e",
+      "group": "/faq/",
+      "label": "Paragraph",
+      "value": "You can contact us about SEO and Google Business Profile optimisation, social media management, website development, Google and Meta advertising, branding and visual content. We will discuss what fits your goals before agreeing a scope.",
+      "html": "You can contact us about SEO and Google Business Profile optimisation, social media management, website development, Google and Meta advertising, branding and visual content. We will discuss what fits your goals before agreeing a scope.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.60c92127c7ff6118": {
+      "id": "copy.60c92127c7ff6118",
+      "group": "/faq/",
+      "label": "Paragraph",
+      "value": "The Oman website is for Adox Global Ventures in Muscat. You can reach the Oman team at +968 9696 7420 or info@adoxglobal.om.",
+      "html": "The Oman website is for Adox Global Ventures in Muscat. You can reach the Oman team at +968 9696 7420 or info@adoxglobal.om.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.3befb280922c958e": {
+      "id": "copy.3befb280922c958e",
+      "group": "/faq/",
+      "label": "Paragraph",
+      "value": "Tell us about your business, your current website or social pages, and what you would like to improve. We can then discuss priorities, deliverables and the next steps.",
+      "html": "Tell us about your business, your current website or social pages, and what you would like to improve. We can then discuss priorities, deliverables and the next steps.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ab1c40af0876cc38": {
+      "id": "copy.ab1c40af0876cc38",
+      "group": "/faq/",
+      "label": "Paragraph",
+      "value": "Website improvements can include mobile usability, content, page structure, search optimisation and clearer contact paths. The right approach depends on the condition of the existing website and the scope agreed with you.",
+      "html": "Website improvements can include mobile usability, content, page structure, search optimisation and clearer contact paths. The right approach depends on the condition of the existing website and the scope agreed with you.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.2c6e5ee41d884cc6": {
+      "id": "copy.2c6e5ee41d884cc6",
+      "group": "/faq/",
+      "label": "Paragraph",
+      "value": "Timing varies by channel, competition, budget and the starting point of your business. SEO generally needs ongoing work, while paid campaigns can provide earlier feedback. Results are not guaranteed; goals and reporting should be agreed for your project.",
+      "html": "Timing varies by channel, competition, budget and the starting point of your business. SEO generally needs ongoing work, while paid campaigns can provide earlier feedback. Results are not guaranteed; goals and reporting should be agreed for your project.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.246a48edb9677977": {
+      "id": "copy.246a48edb9677977",
+      "group": "/faq/",
+      "label": "Paragraph",
+      "value": "Costs depend on the work required. Contact us with your requirements so the scope and budget can be discussed. No package price is assumed on this website.",
+      "html": "Costs depend on the work required. Contact us with your requirements so the scope and budget can be discussed. No package price is assumed on this website.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.3e57fe64e8bd006d": {
+      "id": "copy.3e57fe64e8bd006d",
+      "group": "/faq/",
+      "label": "Paragraph",
+      "value": "The form prepares an email containing your details. You review it in your own email app and send it when ready. The form does not automatically submit or store your details.",
+      "html": "The form prepares an email containing your details. You review it in your own email app and send it when ready. The form does not automatically submit or store your details.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.4f4b13783d243544": {
+      "id": "copy.4f4b13783d243544",
+      "group": "/faq/",
+      "label": "Paragraph",
+      "value": "Use the country selector at the top of the website. India opens adoxglobal.com; Dubai, UAE opens adoxglobal.com/ae. Oman keeps you on this website.",
+      "html": "Use the country selector at the top of the website. India opens adoxglobal.com; Dubai, UAE opens adoxglobal.com/ae. Oman keeps you on this website.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.5044d7ea2fef671a": {
+      "id": "copy.5044d7ea2fef671a",
+      "group": "/faq/",
+      "label": "Paragraph",
+      "value": "Your next step",
+      "html": "Your next step",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.2d00b7f2dfbb2ea6": {
+      "id": "copy.2d00b7f2dfbb2ea6",
+      "group": "/faq/",
+      "label": "Section heading",
+      "value": "Let’s put your business\n in front of the right people.",
+      "html": "Let’s put your business<br> in front of the right people.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.f040366ff483be33": {
+      "id": "copy.f040366ff483be33",
+      "group": "/faq/",
+      "label": "Paragraph",
+      "value": "Tell us where you are today and where you want to go.",
+      "html": "Tell us where you are today and where you want to go.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "meta.42099b4af0.title": {
+      "id": "meta.42099b4af0.title",
+      "group": "/",
+      "label": "Page title",
+      "value": "Digital Marketing & Website Development | Adox Global Ventures Oman",
+      "html": "Digital Marketing &amp; Website Development | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.42099b4af0.description": {
+      "id": "meta.42099b4af0.description",
+      "group": "/",
+      "label": "Search description",
+      "value": "Digital marketing, SEO, social media, website development and Google and Meta advertising for businesses in Oman.",
+      "html": "Digital marketing, SEO, social media, website development and Google and Meta advertising for businesses in Oman.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.e56f4dcb41bf2495": {
+      "id": "copy.e56f4dcb41bf2495",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Adox Global Ventures · Oman",
+      "html": "Adox Global Ventures · Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.bf76993f04d9ddc1": {
+      "id": "copy.bf76993f04d9ddc1",
+      "group": "/",
+      "label": "Main heading",
+      "value": "Digital Marketing\n for Businesses in Oman",
+      "html": "Digital Marketing<br> for Businesses in Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.fa827f86621c22c3": {
+      "id": "copy.fa827f86621c22c3",
+      "group": "/",
+      "label": "Section heading",
+      "value": "A clear strategy. A stronger digital presence.",
+      "html": "A clear strategy. A stronger digital presence.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.819a89203cdbf1ed": {
+      "id": "copy.819a89203cdbf1ed",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Connect your business with the people who matter through search, social media, websites and paid campaigns.",
+      "html": "Connect your business with the people who matter through search, social media, websites and paid campaigns.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.a220f9b7ed4791a4": {
+      "id": "copy.a220f9b7ed4791a4",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Adox Global Ventures · Oman",
+      "html": "Adox Global Ventures · Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.e1d2d3b4d3c2a52c": {
+      "id": "copy.e1d2d3b4d3c2a52c",
+      "group": "/",
+      "label": "Main heading",
+      "value": "Social Media Marketing\n That Connects",
+      "html": "Social Media Marketing<br> That Connects",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.969c69272cbb4152": {
+      "id": "copy.969c69272cbb4152",
+      "group": "/",
+      "label": "Section heading",
+      "value": "Build your presence. Start a conversation.",
+      "html": "Build your presence. Start a conversation.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.38958770e465277a": {
+      "id": "copy.38958770e465277a",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Content and social media management shaped around your brand and your audience in Oman.",
+      "html": "Content and social media management shaped around your brand and your audience in Oman.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.f96b9f4d41867b60": {
+      "id": "copy.f96b9f4d41867b60",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Adox Global Ventures · Oman",
+      "html": "Adox Global Ventures · Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ed55b27cee920e13": {
+      "id": "copy.ed55b27cee920e13",
+      "group": "/",
+      "label": "Main heading",
+      "value": "Be Found When\n Customers Are Searching",
+      "html": "Be Found When<br> Customers Are Searching",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.df1b05374386a67d": {
+      "id": "copy.df1b05374386a67d",
+      "group": "/",
+      "label": "Section heading",
+      "value": "Make your business easier to discover.",
+      "html": "Make your business easier to discover.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.39e614947a6d9347": {
+      "id": "copy.39e614947a6d9347",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Local SEO, Google Business Profile optimisation and useful content that support your visibility online.",
+      "html": "Local SEO, Google Business Profile optimisation and useful content that support your visibility online.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.af0201007fb22aeb": {
+      "id": "copy.af0201007fb22aeb",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Adox Global Ventures · Oman",
+      "html": "Adox Global Ventures · Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.1c7bbedf8f26b976": {
+      "id": "copy.1c7bbedf8f26b976",
+      "group": "/",
+      "label": "Main heading",
+      "value": "Website Designs\n That Welcome Customers",
+      "html": "Website Designs<br> That Welcome Customers",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.78594f91ade5395a": {
+      "id": "copy.78594f91ade5395a",
+      "group": "/",
+      "label": "Section heading",
+      "value": "Your website is the start of a conversation.",
+      "html": "Your website is the start of a conversation.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.6a7e31f6f1107f85": {
+      "id": "copy.6a7e31f6f1107f85",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Mobile-friendly websites that communicate your business clearly and make the next step simple.",
+      "html": "Mobile-friendly websites that communicate your business clearly and make the next step simple.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.4a76e6c289faf138": {
+      "id": "copy.4a76e6c289faf138",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Adox Global Ventures · Oman",
+      "html": "Adox Global Ventures · Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.a1f6972f20fd3b7b": {
+      "id": "copy.a1f6972f20fd3b7b",
+      "group": "/",
+      "label": "Main heading",
+      "value": "Reach Your Audience\n With Paid Advertising",
+      "html": "Reach Your Audience<br> With Paid Advertising",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.71955432784c97a9": {
+      "id": "copy.71955432784c97a9",
+      "group": "/",
+      "label": "Section heading",
+      "value": "Focused campaigns. Clearer measurement.",
+      "html": "Focused campaigns. Clearer measurement.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ca83e82aa9e13e4e": {
+      "id": "copy.ca83e82aa9e13e4e",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Google and Meta advertising built around your business goals, agreed budget and customer journey.",
+      "html": "Google and Meta advertising built around your business goals, agreed budget and customer journey.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.1cf317323fec0bbb": {
+      "id": "copy.1cf317323fec0bbb",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Your digital partner in Oman",
+      "html": "Your digital partner in Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.99ad9ad71178b6c3": {
+      "id": "copy.99ad9ad71178b6c3",
+      "group": "/",
+      "label": "Section heading",
+      "value": "A Full Range of Digital Marketing Services for Your Business",
+      "html": "A Full Range of Digital Marketing Services for Your Business",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.1b984f1f3a5628af": {
+      "id": "copy.1b984f1f3a5628af",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "We bring together digital marketing, website development and creative content for businesses in Oman. From building a clear online presence to planning your next campaign, we help you connect the right channels around your goals.",
+      "html": "We bring together digital marketing, website development and creative content for businesses in Oman. From building a clear online presence to planning your next campaign, we help you connect the right channels around your goals.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.9f40641070b9ab21": {
+      "id": "copy.9f40641070b9ab21",
+      "group": "/",
+      "label": "Subheading",
+      "value": "Create, develop and optimise your website, social pages and digital campaigns.",
+      "html": "Create, develop and optimise your website, social pages and digital campaigns.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.2c5d3f463ebb8754": {
+      "id": "copy.2c5d3f463ebb8754",
+      "group": "/",
+      "label": "List item",
+      "value": "Local focus. Content and campaigns shaped around your customers and your market.",
+      "html": "<strong>Local focus.</strong> Content and campaigns shaped around your customers and your market.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.f7d3c063604e4596": {
+      "id": "copy.f7d3c063604e4596",
+      "group": "/",
+      "label": "List item",
+      "value": "Connected services. Search, social, creative and web development working together.",
+      "html": "<strong>Connected services.</strong> Search, social, creative and web development working together.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.abccb7191d6dd9f1": {
+      "id": "copy.abccb7191d6dd9f1",
+      "group": "/",
+      "label": "List item",
+      "value": "A plan for your business. Practical priorities based on where you are and what you want to achieve.",
+      "html": "<strong>A plan for your business.</strong> Practical priorities based on where you are and what you want to achieve.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.be9e9b8ff4dd327f": {
+      "id": "copy.be9e9b8ff4dd327f",
+      "group": "/",
+      "label": "List item",
+      "value": "Clear measurement. Review the signals that matter and refine the next steps.",
+      "html": "<strong>Clear measurement.</strong> Review the signals that matter and refine the next steps.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.803b11a1fe5264f1": {
+      "id": "copy.803b11a1fe5264f1",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Why Adox Global Ventures?",
+      "html": "Why Adox Global Ventures?",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.f7b6b79af67b10f5": {
+      "id": "copy.f7b6b79af67b10f5",
+      "group": "/",
+      "label": "Section heading",
+      "value": "Digital Marketing with\n Your Business in Mind",
+      "html": "Digital Marketing with<br> Your Business in Mind",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.7899e7da8266cfc6": {
+      "id": "copy.7899e7da8266cfc6",
+      "group": "/",
+      "label": "Subheading",
+      "value": "Cost-conscious",
+      "html": "Cost-conscious",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.9bf700c91289d945": {
+      "id": "copy.9bf700c91289d945",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Plan the right activities around an agreed scope and budget.",
+      "html": "Plan the right activities around an agreed scope and budget.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.4624cc5d920a2b6e": {
+      "id": "copy.4624cc5d920a2b6e",
+      "group": "/",
+      "label": "Subheading",
+      "value": "Reach",
+      "html": "Reach",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.9f3074efc26cf2a1": {
+      "id": "copy.9f3074efc26cf2a1",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Connect your business with relevant audiences across digital channels.",
+      "html": "Connect your business with relevant audiences across digital channels.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.98a8c2b90430aced": {
+      "id": "copy.98a8c2b90430aced",
+      "group": "/",
+      "label": "Subheading",
+      "value": "Targeting",
+      "html": "Targeting",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.dd22bce08f1fed09": {
+      "id": "copy.dd22bce08f1fed09",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Shape your message around the people you want to reach.",
+      "html": "Shape your message around the people you want to reach.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.4a2ad57480df4fb1": {
+      "id": "copy.4a2ad57480df4fb1",
+      "group": "/",
+      "label": "Subheading",
+      "value": "Analytics",
+      "html": "Analytics",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.c799fff020fd83d1": {
+      "id": "copy.c799fff020fd83d1",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Use reporting to understand performance and guide the next step.",
+      "html": "Use reporting to understand performance and guide the next step.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.dd6a1b6ec22914be": {
+      "id": "copy.dd6a1b6ec22914be",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "A clearer starting point",
+      "html": "A clearer starting point",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.5877d10577120e4d": {
+      "id": "copy.5877d10577120e4d",
+      "group": "/",
+      "label": "Section heading",
+      "value": "How Is Your Website\n Working for Your Business?",
+      "html": "How Is Your Website<br> Working for Your Business?",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.8636a881e0523972": {
+      "id": "copy.8636a881e0523972",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Request a website review to discuss search visibility, mobile usability and the path from a visit to an enquiry.",
+      "html": "Request a website review to discuss search visibility, mobile usability and the path from a visit to an enquiry.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ab7a954009b6a077": {
+      "id": "copy.ab7a954009b6a077",
+      "group": "/",
+      "label": "Subheading",
+      "value": "Your email is ready",
+      "html": "Your email is ready",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.56e010238f67ce7b": {
+      "id": "copy.56e010238f67ce7b",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Open your email app, review the details, and send when you’re ready.",
+      "html": "Open your email app, review the details, and send when you’re ready.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.05e29b0cd3a2f7ff": {
+      "id": "copy.05e29b0cd3a2f7ff",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Digital marketing insights",
+      "html": "Digital marketing insights",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.d260f710ff817416": {
+      "id": "copy.d260f710ff817416",
+      "group": "/",
+      "label": "Section heading",
+      "value": "Make Better-Informed\n Digital Decisions.",
+      "html": "Make Better-Informed<br> Digital Decisions.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.eae9de24b958d436": {
+      "id": "copy.eae9de24b958d436",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Simple, useful ideas for improving how customers discover and experience your business online.",
+      "html": "Simple, useful ideas for improving how customers discover and experience your business online.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.8966b98b8e270183": {
+      "id": "copy.8966b98b8e270183",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Your next step",
+      "html": "Your next step",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.096f08eb8fa47261": {
+      "id": "copy.096f08eb8fa47261",
+      "group": "/",
+      "label": "Section heading",
+      "value": "Let’s put your business\n in front of the right people.",
+      "html": "Let’s put your business<br> in front of the right people.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.94eaa0b30a8dcd77": {
+      "id": "copy.94eaa0b30a8dcd77",
+      "group": "/",
+      "label": "Paragraph",
+      "value": "Tell us where you are today and where you want to go.",
+      "html": "Tell us where you are today and where you want to go.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "meta.a4fca3692d.title": {
+      "id": "meta.a4fca3692d.title",
+      "group": "/insights/campaign-goals/",
+      "label": "Page title",
+      "value": "Start Your Campaign with a Clear Goal | Adox Global Ventures Oman",
+      "html": "Start Your Campaign with a Clear Goal | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.a4fca3692d.description": {
+      "id": "meta.a4fca3692d.description",
+      "group": "/insights/campaign-goals/",
+      "label": "Search description",
+      "value": "Connect your audience, offer and measurement before you launch.",
+      "html": "Connect your audience, offer and measurement before you launch.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.9e63a18e6887bc2e": {
+      "id": "copy.9e63a18e6887bc2e",
+      "group": "/insights/campaign-goals/",
+      "label": "Paragraph",
+      "value": "Campaign Planning",
+      "html": "Campaign Planning",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.7cf339385116fd33": {
+      "id": "copy.7cf339385116fd33",
+      "group": "/insights/campaign-goals/",
+      "label": "Main heading",
+      "value": "Start Your Campaign with a Clear Goal",
+      "html": "Start Your Campaign with a Clear Goal",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.b9faa3332b88322c": {
+      "id": "copy.b9faa3332b88322c",
+      "group": "/insights/campaign-goals/",
+      "label": "Paragraph",
+      "value": "Connect your audience, offer and measurement before you launch.",
+      "html": "Connect your audience, offer and measurement before you launch.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.9a8b8746e48e4c50": {
+      "id": "copy.9a8b8746e48e4c50",
+      "group": "/insights/campaign-goals/",
+      "label": "Section heading",
+      "value": "Choose the outcome first",
+      "html": "Choose the outcome first",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.efb7df29bd0dcb84": {
+      "id": "copy.efb7df29bd0dcb84",
+      "group": "/insights/campaign-goals/",
+      "label": "Paragraph",
+      "value": "Decide what the campaign should help people do. Calls, enquiries and online purchases require different messages and different measurement.",
+      "html": "Decide what the campaign should help people do. Calls, enquiries and online purchases require different messages and different measurement.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.9d79c61e74a3016b": {
+      "id": "copy.9d79c61e74a3016b",
+      "group": "/insights/campaign-goals/",
+      "label": "Section heading",
+      "value": "Know the audience",
+      "html": "Know the audience",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.522bbfa4b5255354": {
+      "id": "copy.522bbfa4b5255354",
+      "group": "/insights/campaign-goals/",
+      "label": "Paragraph",
+      "value": "Define whom you need to reach, what they are looking for and what could stop them from taking the next step. Keep the message relevant to them.",
+      "html": "Define whom you need to reach, what they are looking for and what could stop them from taking the next step. Keep the message relevant to them.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.2f9a2c7aa7b0e237": {
+      "id": "copy.2f9a2c7aa7b0e237",
+      "group": "/insights/campaign-goals/",
+      "label": "Section heading",
+      "value": "Align the advert and the landing page",
+      "html": "Align the advert and the landing page",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.76523ef243ff4da3": {
+      "id": "copy.76523ef243ff4da3",
+      "group": "/insights/campaign-goals/",
+      "label": "Paragraph",
+      "value": "The offer and next step should remain consistent after someone clicks. Avoid sending every campaign to a generic page if a focused landing page would answer the question better.",
+      "html": "The offer and next step should remain consistent after someone clicks. Avoid sending every campaign to a generic page if a focused landing page would answer the question better.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ddc2bd10b26f92da": {
+      "id": "copy.ddc2bd10b26f92da",
+      "group": "/insights/campaign-goals/",
+      "label": "Section heading",
+      "value": "Agree the budget and review plan",
+      "html": "Agree the budget and review plan",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.47dd6ae771f47d58": {
+      "id": "copy.47dd6ae771f47d58",
+      "group": "/insights/campaign-goals/",
+      "label": "Paragraph",
+      "value": "Set the spending limit, choose the signals to review and decide when to make changes. Avoid judging a campaign by likes or impressions alone.",
+      "html": "Set the spending limit, choose the signals to review and decide when to make changes. Avoid judging a campaign by likes or impressions alone.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "meta.e428fae4c8.title": {
+      "id": "meta.e428fae4c8.title",
+      "group": "/insights/",
+      "label": "Page title",
+      "value": "Digital Marketing Insights | Adox Global Ventures Oman",
+      "html": "Digital Marketing Insights | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.e428fae4c8.description": {
+      "id": "meta.e428fae4c8.description",
+      "group": "/insights/",
+      "label": "Search description",
+      "value": "Practical guides to local search, mobile websites and digital campaign planning.",
+      "html": "Practical guides to local search, mobile websites and digital campaign planning.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.6d76deae6f0c584d": {
+      "id": "copy.6d76deae6f0c584d",
+      "group": "/insights/",
+      "label": "Paragraph",
+      "value": "Digital marketing insights",
+      "html": "Digital marketing insights",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.8de93e9710807d49": {
+      "id": "copy.8de93e9710807d49",
+      "group": "/insights/",
+      "label": "Main heading",
+      "value": "Small Details.\n Stronger Digital Foundations.",
+      "html": "Small Details.<br> Stronger Digital Foundations.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.6495d68b7d4655f7": {
+      "id": "copy.6495d68b7d4655f7",
+      "group": "/insights/",
+      "label": "Paragraph",
+      "value": "Practical reading for the next step in your business’s online presence.",
+      "html": "Practical reading for the next step in your business’s online presence.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ecec1a32854a6830": {
+      "id": "copy.ecec1a32854a6830",
+      "group": "/insights/",
+      "label": "Paragraph",
+      "value": "Local Search",
+      "html": "Local Search",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.6e43be914fbbe184": {
+      "id": "copy.6e43be914fbbe184",
+      "group": "/insights/",
+      "label": "Section heading",
+      "value": "Help Customers Find Your Business in Oman",
+      "html": "Help Customers Find Your Business in Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.37188d82d3b101a5": {
+      "id": "copy.37188d82d3b101a5",
+      "group": "/insights/",
+      "label": "Paragraph",
+      "value": "A useful starting checklist for a clear, consistent local search presence.",
+      "html": "A useful starting checklist for a clear, consistent local search presence.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.d6b2774218747d84": {
+      "id": "copy.d6b2774218747d84",
+      "group": "/insights/",
+      "label": "Paragraph",
+      "value": "Website Experience",
+      "html": "Website Experience",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.73f5001c2c44a6b2": {
+      "id": "copy.73f5001c2c44a6b2",
+      "group": "/insights/",
+      "label": "Section heading",
+      "value": "Is Your Website Ready for Mobile Visitors?",
+      "html": "Is Your Website Ready for Mobile Visitors?",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.3340d024bbcddb8d": {
+      "id": "copy.3340d024bbcddb8d",
+      "group": "/insights/",
+      "label": "Paragraph",
+      "value": "Five practical details to review before your next website update.",
+      "html": "Five practical details to review before your next website update.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.f29bb502df01dab3": {
+      "id": "copy.f29bb502df01dab3",
+      "group": "/insights/",
+      "label": "Paragraph",
+      "value": "Campaign Planning",
+      "html": "Campaign Planning",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.7402ed9889186501": {
+      "id": "copy.7402ed9889186501",
+      "group": "/insights/",
+      "label": "Section heading",
+      "value": "Start Your Campaign with a Clear Goal",
+      "html": "Start Your Campaign with a Clear Goal",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.c7b549de5fe6b0c2": {
+      "id": "copy.c7b549de5fe6b0c2",
+      "group": "/insights/",
+      "label": "Paragraph",
+      "value": "Connect your audience, offer and measurement before you launch.",
+      "html": "Connect your audience, offer and measurement before you launch.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.9e151e19f223999b": {
+      "id": "copy.9e151e19f223999b",
+      "group": "/insights/",
+      "label": "Paragraph",
+      "value": "Your next step",
+      "html": "Your next step",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.e471ac70166ab24d": {
+      "id": "copy.e471ac70166ab24d",
+      "group": "/insights/",
+      "label": "Section heading",
+      "value": "Let’s put your business\n in front of the right people.",
+      "html": "Let’s put your business<br> in front of the right people.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.74fef1a2a7416ab9": {
+      "id": "copy.74fef1a2a7416ab9",
+      "group": "/insights/",
+      "label": "Paragraph",
+      "value": "Tell us where you are today and where you want to go.",
+      "html": "Tell us where you are today and where you want to go.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "meta.08befb3ed2.title": {
+      "id": "meta.08befb3ed2.title",
+      "group": "/insights/local-search-oman/",
+      "label": "Page title",
+      "value": "Help Customers Find Your Business in Oman | Adox Global Ventures Oman",
+      "html": "Help Customers Find Your Business in Oman | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.08befb3ed2.description": {
+      "id": "meta.08befb3ed2.description",
+      "group": "/insights/local-search-oman/",
+      "label": "Search description",
+      "value": "A useful starting checklist for a clear, consistent local search presence.",
+      "html": "A useful starting checklist for a clear, consistent local search presence.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.0409c3f908200d06": {
+      "id": "copy.0409c3f908200d06",
+      "group": "/insights/local-search-oman/",
+      "label": "Paragraph",
+      "value": "Local Search",
+      "html": "Local Search",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ac1045b1dee47dc0": {
+      "id": "copy.ac1045b1dee47dc0",
+      "group": "/insights/local-search-oman/",
+      "label": "Main heading",
+      "value": "Help Customers Find Your Business in Oman",
+      "html": "Help Customers Find Your Business in Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.f211816b88bf903a": {
+      "id": "copy.f211816b88bf903a",
+      "group": "/insights/local-search-oman/",
+      "label": "Paragraph",
+      "value": "A useful starting checklist for a clear, consistent local search presence.",
+      "html": "A useful starting checklist for a clear, consistent local search presence.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.8d4e1abb3f19d3fe": {
+      "id": "copy.8d4e1abb3f19d3fe",
+      "group": "/insights/local-search-oman/",
+      "label": "Section heading",
+      "value": "Keep your business details consistent",
+      "html": "Keep your business details consistent",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.b27ef4129d503e6a": {
+      "id": "copy.b27ef4129d503e6a",
+      "group": "/insights/local-search-oman/",
+      "label": "Paragraph",
+      "value": "Use the same business name, phone number and accurate address across your website and business profiles. Update details when they change.",
+      "html": "Use the same business name, phone number and accurate address across your website and business profiles. Update details when they change.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.e912e020a5a33ab6": {
+      "id": "copy.e912e020a5a33ab6",
+      "group": "/insights/local-search-oman/",
+      "label": "Section heading",
+      "value": "Complete your Google Business Profile",
+      "html": "Complete your Google Business Profile",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.032e647c7ba553fd": {
+      "id": "copy.032e647c7ba553fd",
+      "group": "/insights/local-search-oman/",
+      "label": "Paragraph",
+      "value": "Choose relevant categories, describe your services clearly, and add current photos. Keep opening hours accurate, including holiday changes.",
+      "html": "Choose relevant categories, describe your services clearly, and add current photos. Keep opening hours accurate, including holiday changes.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.0b471f2bb65cbf86": {
+      "id": "copy.0b471f2bb65cbf86",
+      "group": "/insights/local-search-oman/",
+      "label": "Section heading",
+      "value": "Make your website locally useful",
+      "html": "Make your website locally useful",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.de9949df1f2d0c02": {
+      "id": "copy.de9949df1f2d0c02",
+      "group": "/insights/local-search-oman/",
+      "label": "Paragraph",
+      "value": "Explain the services you provide, the area you serve and the easiest way to contact you. Write for customers rather than repeating place names.",
+      "html": "Explain the services you provide, the area you serve and the easiest way to contact you. Write for customers rather than repeating place names.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.4cb146d2fd07be71": {
+      "id": "copy.4cb146d2fd07be71",
+      "group": "/insights/local-search-oman/",
+      "label": "Section heading",
+      "value": "Review the customer journey",
+      "html": "Review the customer journey",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.845ebdbc004419f4": {
+      "id": "copy.845ebdbc004419f4",
+      "group": "/insights/local-search-oman/",
+      "label": "Paragraph",
+      "value": "Check the full path from a search result to your website and then to a call or enquiry. A visible phone number and a clear mobile layout can make that journey simpler.",
+      "html": "Check the full path from a search result to your website and then to a call or enquiry. A visible phone number and a clear mobile layout can make that journey simpler.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "meta.69d2c0c90f.title": {
+      "id": "meta.69d2c0c90f.title",
+      "group": "/insights/mobile-website-checklist/",
+      "label": "Page title",
+      "value": "Is Your Website Ready for Mobile Visitors? | Adox Global Ventures Oman",
+      "html": "Is Your Website Ready for Mobile Visitors? | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.69d2c0c90f.description": {
+      "id": "meta.69d2c0c90f.description",
+      "group": "/insights/mobile-website-checklist/",
+      "label": "Search description",
+      "value": "Five practical details to review before your next website update.",
+      "html": "Five practical details to review before your next website update.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.daadea86ab8905bf": {
+      "id": "copy.daadea86ab8905bf",
+      "group": "/insights/mobile-website-checklist/",
+      "label": "Paragraph",
+      "value": "Website Experience",
+      "html": "Website Experience",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.79d8c35c77fc37c6": {
+      "id": "copy.79d8c35c77fc37c6",
+      "group": "/insights/mobile-website-checklist/",
+      "label": "Main heading",
+      "value": "Is Your Website Ready for Mobile Visitors?",
+      "html": "Is Your Website Ready for Mobile Visitors?",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.47289da5c576393c": {
+      "id": "copy.47289da5c576393c",
+      "group": "/insights/mobile-website-checklist/",
+      "label": "Paragraph",
+      "value": "Five practical details to review before your next website update.",
+      "html": "Five practical details to review before your next website update.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.d20b3be049e8d405": {
+      "id": "copy.d20b3be049e8d405",
+      "group": "/insights/mobile-website-checklist/",
+      "label": "Section heading",
+      "value": "Make the next step obvious",
+      "html": "Make the next step obvious",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.55fe1114e983708c": {
+      "id": "copy.55fe1114e983708c",
+      "group": "/insights/mobile-website-checklist/",
+      "label": "Paragraph",
+      "value": "Every key page should explain what a visitor can do next, whether that is calling, asking a question or viewing your services.",
+      "html": "Every key page should explain what a visitor can do next, whether that is calling, asking a question or viewing your services.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.863af6bd9bfebec8": {
+      "id": "copy.863af6bd9bfebec8",
+      "group": "/insights/mobile-website-checklist/",
+      "label": "Section heading",
+      "value": "Keep the content easy to scan",
+      "html": "Keep the content easy to scan",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.9b68b0eac2131f3a": {
+      "id": "copy.9b68b0eac2131f3a",
+      "group": "/insights/mobile-website-checklist/",
+      "label": "Paragraph",
+      "value": "Use clear headings, short paragraphs and enough space around buttons. Avoid making visitors pinch and zoom to understand your page.",
+      "html": "Use clear headings, short paragraphs and enough space around buttons. Avoid making visitors pinch and zoom to understand your page.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.8ca923771afe7338": {
+      "id": "copy.8ca923771afe7338",
+      "group": "/insights/mobile-website-checklist/",
+      "label": "Section heading",
+      "value": "Test real contact links",
+      "html": "Test real contact links",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.d63736a0bb26e609": {
+      "id": "copy.d63736a0bb26e609",
+      "group": "/insights/mobile-website-checklist/",
+      "label": "Paragraph",
+      "value": "Check that phone buttons dial the correct number and email links open the right address. A beautiful page is less useful if its contact path is broken.",
+      "html": "Check that phone buttons dial the correct number and email links open the right address. A beautiful page is less useful if its contact path is broken.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.35363fc044130696": {
+      "id": "copy.35363fc044130696",
+      "group": "/insights/mobile-website-checklist/",
+      "label": "Section heading",
+      "value": "Use images with a purpose",
+      "html": "Use images with a purpose",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.10bfb89d5dc5355b": {
+      "id": "copy.10bfb89d5dc5355b",
+      "group": "/insights/mobile-website-checklist/",
+      "label": "Paragraph",
+      "value": "Choose relevant images, keep file sizes sensible and provide descriptions where images carry meaning. Decorative graphics should not slow down the page.",
+      "html": "Choose relevant images, keep file sizes sensible and provide descriptions where images carry meaning. Decorative graphics should not slow down the page.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.765fc12cd9a73b46": {
+      "id": "copy.765fc12cd9a73b46",
+      "group": "/insights/mobile-website-checklist/",
+      "label": "Section heading",
+      "value": "Check it on different screens",
+      "html": "Check it on different screens",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.3cb3e7316bf8d59e": {
+      "id": "copy.3cb3e7316bf8d59e",
+      "group": "/insights/mobile-website-checklist/",
+      "label": "Paragraph",
+      "value": "Review navigation, forms and longer pages on a phone as well as a desktop. Look for clipped text and horizontal scrolling.",
+      "html": "Review navigation, forms and longer pages on a phone as well as a desktop. Look for clipped text and horizontal scrolling.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "meta.aff86e4572.title": {
+      "id": "meta.aff86e4572.title",
+      "group": "/privacy/",
+      "label": "Page title",
+      "value": "Privacy Information | Adox Global Ventures Oman",
+      "html": "Privacy Information | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.aff86e4572.description": {
+      "id": "meta.aff86e4572.description",
+      "group": "/privacy/",
+      "label": "Search description",
+      "value": "How contact forms and external links work on the Adox Global Ventures Oman website.",
+      "html": "How contact forms and external links work on the Adox Global Ventures Oman website.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.00a3dd6c13fedee3": {
+      "id": "copy.00a3dd6c13fedee3",
+      "group": "/privacy/",
+      "label": "Paragraph",
+      "value": "Privacy information",
+      "html": "Privacy information",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.d57079ad903a6b86": {
+      "id": "copy.d57079ad903a6b86",
+      "group": "/privacy/",
+      "label": "Main heading",
+      "value": "Your Enquiry.\n Your Choice to Send.",
+      "html": "Your Enquiry.<br> Your Choice to Send.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.8508145682a1b5e4": {
+      "id": "copy.8508145682a1b5e4",
+      "group": "/privacy/",
+      "label": "Paragraph",
+      "value": "A simple explanation of how this website handles contact details.",
+      "html": "A simple explanation of how this website handles contact details.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ce174ac190860727": {
+      "id": "copy.ce174ac190860727",
+      "group": "/privacy/",
+      "label": "Section heading",
+      "value": "Contact forms",
+      "html": "Contact forms",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.fb085c7930803919": {
+      "id": "copy.fb085c7930803919",
+      "group": "/privacy/",
+      "label": "Paragraph",
+      "value": "Information entered into the forms is used in your browser to prepare an email. The website does not automatically send or store that information. You choose whether to open your email app, review the message and send it to info@adoxglobal.om.",
+      "html": "Information entered into the forms is used in your browser to prepare an email. The website does not automatically send or store that information. You choose whether to open your email app, review the message and send it to info@adoxglobal.om.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.7fd8318b4c273215": {
+      "id": "copy.7fd8318b4c273215",
+      "group": "/privacy/",
+      "label": "Section heading",
+      "value": "Email and phone contact",
+      "html": "Email and phone contact",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.8e569927bd3d0636": {
+      "id": "copy.8e569927bd3d0636",
+      "group": "/privacy/",
+      "label": "Paragraph",
+      "value": "If you email or call Adox Global Ventures, the details you choose to share can be used to respond to your enquiry and discuss the requested services.",
+      "html": "If you email or call Adox Global Ventures, the details you choose to share can be used to respond to your enquiry and discuss the requested services.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.d2f98cf1c8d080eb": {
+      "id": "copy.d2f98cf1c8d080eb",
+      "group": "/privacy/",
+      "label": "Section heading",
+      "value": "External services",
+      "html": "External services",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ac3b0ee9b189755e": {
+      "id": "copy.ac3b0ee9b189755e",
+      "group": "/privacy/",
+      "label": "Paragraph",
+      "value": "The country selector links to the separate Adox India and Dubai websites. Their own privacy information applies when you visit them. This website loads the Raleway typeface from Google Fonts; your browser may contact Google’s font servers to retrieve it.",
+      "html": "The country selector links to the separate Adox India and Dubai websites. Their own privacy information applies when you visit them. This website loads the Raleway typeface from Google Fonts; your browser may contact Google’s font servers to retrieve it.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.0a3906dfee26e222": {
+      "id": "copy.0a3906dfee26e222",
+      "group": "/privacy/",
+      "label": "Section heading",
+      "value": "Questions",
+      "html": "Questions",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "meta.463487689d.title": {
+      "id": "meta.463487689d.title",
+      "group": "/services/branding-content/",
+      "label": "Page title",
+      "value": "Branding & Visual Content | Adox Global Ventures Oman",
+      "html": "Branding &amp; Visual Content | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.463487689d.description": {
+      "id": "meta.463487689d.description",
+      "group": "/services/branding-content/",
+      "label": "Search description",
+      "value": "Make your business recognisable with a consistent visual identity.",
+      "html": "Make your business recognisable with a consistent visual identity.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.f6bf762413449d81": {
+      "id": "copy.f6bf762413449d81",
+      "group": "/services/branding-content/",
+      "label": "Paragraph",
+      "value": "Services in Oman",
+      "html": "Services in Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.4579eca0f2cc1dae": {
+      "id": "copy.4579eca0f2cc1dae",
+      "group": "/services/branding-content/",
+      "label": "Main heading",
+      "value": "Branding & Visual Content",
+      "html": "Branding & Visual Content",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.12ba82430f44af80": {
+      "id": "copy.12ba82430f44af80",
+      "group": "/services/branding-content/",
+      "label": "Paragraph",
+      "value": "Make your business recognisable with a consistent visual identity.",
+      "html": "Make your business recognisable with a consistent visual identity.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.95819bf5a39c6e05": {
+      "id": "copy.95819bf5a39c6e05",
+      "group": "/services/branding-content/",
+      "label": "Paragraph",
+      "value": "Built around your business",
+      "html": "Built around your business",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.2366dbe53b1f5b35": {
+      "id": "copy.2366dbe53b1f5b35",
+      "group": "/services/branding-content/",
+      "label": "Section heading",
+      "value": "A Clearer Approach to\n Branding & Visual Content",
+      "html": "A Clearer Approach to<br> Branding & Visual Content",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ff5bf1493e7b751f": {
+      "id": "copy.ff5bf1493e7b751f",
+      "group": "/services/branding-content/",
+      "label": "Paragraph",
+      "value": "From the first impression to your everyday communications, your brand should feel like one business. We develop the visual content that helps your message stay clear across print, web and social media.",
+      "html": "From the first impression to your everyday communications, your brand should feel like one business. We develop the visual content that helps your message stay clear across print, web and social media.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.9c84074da6f7af76": {
+      "id": "copy.9c84074da6f7af76",
+      "group": "/services/branding-content/",
+      "label": "Subheading",
+      "value": "What we can work on together",
+      "html": "What we can work on together",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.8d48ccc0c6543a48": {
+      "id": "copy.8d48ccc0c6543a48",
+      "group": "/services/branding-content/",
+      "label": "List item",
+      "value": "Brand identity and design",
+      "html": "Brand identity and design",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.5be5a992ee449788": {
+      "id": "copy.5be5a992ee449788",
+      "group": "/services/branding-content/",
+      "label": "List item",
+      "value": "Social and advertising creatives",
+      "html": "Social and advertising creatives",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.491f2d6e45eae5c8": {
+      "id": "copy.491f2d6e45eae5c8",
+      "group": "/services/branding-content/",
+      "label": "List item",
+      "value": "Business photography and visual content",
+      "html": "Business photography and visual content",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.72059fd93804c560": {
+      "id": "copy.72059fd93804c560",
+      "group": "/services/branding-content/",
+      "label": "List item",
+      "value": "Content planning across digital channels",
+      "html": "Content planning across digital channels",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.4aef5ed27c698c89": {
+      "id": "copy.4aef5ed27c698c89",
+      "group": "/services/branding-content/",
+      "label": "Subheading",
+      "value": "Start with your goals",
+      "html": "Start with your goals",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.1318add525c83239": {
+      "id": "copy.1318add525c83239",
+      "group": "/services/branding-content/",
+      "label": "Paragraph",
+      "value": "Tell us about your business, your audience and what you would like to improve. We’ll discuss the scope before the work begins.",
+      "html": "Tell us about your business, your audience and what you would like to improve. We’ll discuss the scope before the work begins.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.095dc4e8e4bc720b": {
+      "id": "copy.095dc4e8e4bc720b",
+      "group": "/services/branding-content/",
+      "label": "Paragraph",
+      "value": "Your next step",
+      "html": "Your next step",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.1b526f125dbcbade": {
+      "id": "copy.1b526f125dbcbade",
+      "group": "/services/branding-content/",
+      "label": "Section heading",
+      "value": "Let’s put your business\n in front of the right people.",
+      "html": "Let’s put your business<br> in front of the right people.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ada9567fb63f7f70": {
+      "id": "copy.ada9567fb63f7f70",
+      "group": "/services/branding-content/",
+      "label": "Paragraph",
+      "value": "Tell us where you are today and where you want to go.",
+      "html": "Tell us where you are today and where you want to go.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "meta.fd47131439.title": {
+      "id": "meta.fd47131439.title",
+      "group": "/services/digital-strategy/",
+      "label": "Page title",
+      "value": "Digital Marketing Strategy | Adox Global Ventures Oman",
+      "html": "Digital Marketing Strategy | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.fd47131439.description": {
+      "id": "meta.fd47131439.description",
+      "group": "/services/digital-strategy/",
+      "label": "Search description",
+      "value": "Connect your website, search, content and advertising around one direction.",
+      "html": "Connect your website, search, content and advertising around one direction.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.49dd6a75269f9585": {
+      "id": "copy.49dd6a75269f9585",
+      "group": "/services/digital-strategy/",
+      "label": "Paragraph",
+      "value": "Services in Oman",
+      "html": "Services in Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.84022320a458965e": {
+      "id": "copy.84022320a458965e",
+      "group": "/services/digital-strategy/",
+      "label": "Main heading",
+      "value": "Digital Marketing Strategy",
+      "html": "Digital Marketing Strategy",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.cea4e8595a3b25e9": {
+      "id": "copy.cea4e8595a3b25e9",
+      "group": "/services/digital-strategy/",
+      "label": "Paragraph",
+      "value": "Connect your website, search, content and advertising around one direction.",
+      "html": "Connect your website, search, content and advertising around one direction.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.fdf447767cf8c75a": {
+      "id": "copy.fdf447767cf8c75a",
+      "group": "/services/digital-strategy/",
+      "label": "Paragraph",
+      "value": "Built around your business",
+      "html": "Built around your business",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ed9204ffd3f56eba": {
+      "id": "copy.ed9204ffd3f56eba",
+      "group": "/services/digital-strategy/",
+      "label": "Section heading",
+      "value": "A Clearer Approach to\n Digital Marketing Strategy",
+      "html": "A Clearer Approach to<br> Digital Marketing Strategy",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.b5de73825da66ade": {
+      "id": "copy.b5de73825da66ade",
+      "group": "/services/digital-strategy/",
+      "label": "Paragraph",
+      "value": "A useful digital plan begins with your business priorities. We review your current presence, identify practical opportunities and agree the next steps so each channel supports the same goal.",
+      "html": "A useful digital plan begins with your business priorities. We review your current presence, identify practical opportunities and agree the next steps so each channel supports the same goal.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.c61eaf42afa63edb": {
+      "id": "copy.c61eaf42afa63edb",
+      "group": "/services/digital-strategy/",
+      "label": "Subheading",
+      "value": "What we can work on together",
+      "html": "What we can work on together",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.864117d13a2b33b4": {
+      "id": "copy.864117d13a2b33b4",
+      "group": "/services/digital-strategy/",
+      "label": "List item",
+      "value": "Digital presence review",
+      "html": "Digital presence review",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.3f1c823fd6e090ec": {
+      "id": "copy.3f1c823fd6e090ec",
+      "group": "/services/digital-strategy/",
+      "label": "List item",
+      "value": "Audience and competitor research",
+      "html": "Audience and competitor research",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.bc36976703d78c7f": {
+      "id": "copy.bc36976703d78c7f",
+      "group": "/services/digital-strategy/",
+      "label": "List item",
+      "value": "Channel planning and campaign priorities",
+      "html": "Channel planning and campaign priorities",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.3ac5ce06d905d078": {
+      "id": "copy.3ac5ce06d905d078",
+      "group": "/services/digital-strategy/",
+      "label": "List item",
+      "value": "Measurement and ongoing optimisation",
+      "html": "Measurement and ongoing optimisation",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.874c264487fcaa8f": {
+      "id": "copy.874c264487fcaa8f",
+      "group": "/services/digital-strategy/",
+      "label": "Subheading",
+      "value": "Start with your goals",
+      "html": "Start with your goals",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.0ec0cbc0dbec6fad": {
+      "id": "copy.0ec0cbc0dbec6fad",
+      "group": "/services/digital-strategy/",
+      "label": "Paragraph",
+      "value": "Tell us about your business, your audience and what you would like to improve. We’ll discuss the scope before the work begins.",
+      "html": "Tell us about your business, your audience and what you would like to improve. We’ll discuss the scope before the work begins.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.31b4e8db5eb47502": {
+      "id": "copy.31b4e8db5eb47502",
+      "group": "/services/digital-strategy/",
+      "label": "Paragraph",
+      "value": "Your next step",
+      "html": "Your next step",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.5517582d55c692e2": {
+      "id": "copy.5517582d55c692e2",
+      "group": "/services/digital-strategy/",
+      "label": "Section heading",
+      "value": "Let’s put your business\n in front of the right people.",
+      "html": "Let’s put your business<br> in front of the right people.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.fff25c4abf66297d": {
+      "id": "copy.fff25c4abf66297d",
+      "group": "/services/digital-strategy/",
+      "label": "Paragraph",
+      "value": "Tell us where you are today and where you want to go.",
+      "html": "Tell us where you are today and where you want to go.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "meta.e34614aae1.title": {
+      "id": "meta.e34614aae1.title",
+      "group": "/services/",
+      "label": "Page title",
+      "value": "Digital Marketing Services | Adox Global Ventures Oman",
+      "html": "Digital Marketing Services | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.e34614aae1.description": {
+      "id": "meta.e34614aae1.description",
+      "group": "/services/",
+      "label": "Search description",
+      "value": "Explore SEO, social media, website development, paid advertising and branding services for businesses in Oman.",
+      "html": "Explore SEO, social media, website development, paid advertising and branding services for businesses in Oman.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.0d87bacc336a3ee3": {
+      "id": "copy.0d87bacc336a3ee3",
+      "group": "/services/",
+      "label": "Paragraph",
+      "value": "Create · Develop · Optimise",
+      "html": "Create · Develop · Optimise",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.9f310762b00b2782": {
+      "id": "copy.9f310762b00b2782",
+      "group": "/services/",
+      "label": "Main heading",
+      "value": "Digital Services.\n One Connected Direction.",
+      "html": "Digital Services.<br> One Connected Direction.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.20692f82aa7b1335": {
+      "id": "copy.20692f82aa7b1335",
+      "group": "/services/",
+      "label": "Paragraph",
+      "value": "Choose the right mix of services for your business, your audience and your goals.",
+      "html": "Choose the right mix of services for your business, your audience and your goals.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.7d1fd2b08217f046": {
+      "id": "copy.7d1fd2b08217f046",
+      "group": "/services/",
+      "label": "Subheading",
+      "value": "Search Engine Optimization",
+      "html": "Search Engine Optimization",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.9990764b66a3e646": {
+      "id": "copy.9990764b66a3e646",
+      "group": "/services/",
+      "label": "Paragraph",
+      "value": "Help your business get found by people searching for your services in Oman.",
+      "html": "Help your business get found by people searching for your services in Oman.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.02dc581b85363018": {
+      "id": "copy.02dc581b85363018",
+      "group": "/services/",
+      "label": "Subheading",
+      "value": "Social Media Marketing",
+      "html": "Social Media Marketing",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ee8efe5b2bea9499": {
+      "id": "copy.ee8efe5b2bea9499",
+      "group": "/services/",
+      "label": "Paragraph",
+      "value": "Build a consistent presence and meaningful connections with your audience.",
+      "html": "Build a consistent presence and meaningful connections with your audience.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.2ce4ad0ed88603df": {
+      "id": "copy.2ce4ad0ed88603df",
+      "group": "/services/",
+      "label": "Subheading",
+      "value": "Website Design & Development",
+      "html": "Website Design & Development",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.863afb41b67cd20f": {
+      "id": "copy.863afb41b67cd20f",
+      "group": "/services/",
+      "label": "Paragraph",
+      "value": "Give customers a clear, mobile-friendly way to discover and contact your business.",
+      "html": "Give customers a clear, mobile-friendly way to discover and contact your business.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.b78c2a3bc1c56ca1": {
+      "id": "copy.b78c2a3bc1c56ca1",
+      "group": "/services/",
+      "label": "Subheading",
+      "value": "Google & Meta Advertising",
+      "html": "Google & Meta Advertising",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.d11c71ad0f00242f": {
+      "id": "copy.d11c71ad0f00242f",
+      "group": "/services/",
+      "label": "Paragraph",
+      "value": "Reach relevant audiences with campaigns built around clear business goals.",
+      "html": "Reach relevant audiences with campaigns built around clear business goals.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.1a9d937f48423a27": {
+      "id": "copy.1a9d937f48423a27",
+      "group": "/services/",
+      "label": "Subheading",
+      "value": "Branding & Visual Content",
+      "html": "Branding & Visual Content",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.a62e5aa35bade71a": {
+      "id": "copy.a62e5aa35bade71a",
+      "group": "/services/",
+      "label": "Paragraph",
+      "value": "Make your business recognisable with a consistent visual identity.",
+      "html": "Make your business recognisable with a consistent visual identity.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.3ece5af35df30531": {
+      "id": "copy.3ece5af35df30531",
+      "group": "/services/",
+      "label": "Subheading",
+      "value": "Digital Marketing Strategy",
+      "html": "Digital Marketing Strategy",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.c0e7fc604010b6e6": {
+      "id": "copy.c0e7fc604010b6e6",
+      "group": "/services/",
+      "label": "Paragraph",
+      "value": "Connect your website, search, content and advertising around one direction.",
+      "html": "Connect your website, search, content and advertising around one direction.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.58e87ee5a49c660e": {
+      "id": "copy.58e87ee5a49c660e",
+      "group": "/services/",
+      "label": "Paragraph",
+      "value": "Your next step",
+      "html": "Your next step",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.2ef264efebf5942a": {
+      "id": "copy.2ef264efebf5942a",
+      "group": "/services/",
+      "label": "Section heading",
+      "value": "Let’s put your business\n in front of the right people.",
+      "html": "Let’s put your business<br> in front of the right people.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.96fc6af0454816df": {
+      "id": "copy.96fc6af0454816df",
+      "group": "/services/",
+      "label": "Paragraph",
+      "value": "Tell us where you are today and where you want to go.",
+      "html": "Tell us where you are today and where you want to go.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "meta.74925cf14c.title": {
+      "id": "meta.74925cf14c.title",
+      "group": "/services/paid-advertising/",
+      "label": "Page title",
+      "value": "Google & Meta Advertising | Adox Global Ventures Oman",
+      "html": "Google &amp; Meta Advertising | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.74925cf14c.description": {
+      "id": "meta.74925cf14c.description",
+      "group": "/services/paid-advertising/",
+      "label": "Search description",
+      "value": "Reach relevant audiences with campaigns built around clear business goals.",
+      "html": "Reach relevant audiences with campaigns built around clear business goals.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.9acab69aff71b3ff": {
+      "id": "copy.9acab69aff71b3ff",
+      "group": "/services/paid-advertising/",
+      "label": "Paragraph",
+      "value": "Services in Oman",
+      "html": "Services in Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.a77d1a5ae3c8fa1f": {
+      "id": "copy.a77d1a5ae3c8fa1f",
+      "group": "/services/paid-advertising/",
+      "label": "Main heading",
+      "value": "Google & Meta Advertising",
+      "html": "Google & Meta Advertising",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.55013036405f925f": {
+      "id": "copy.55013036405f925f",
+      "group": "/services/paid-advertising/",
+      "label": "Paragraph",
+      "value": "Reach relevant audiences with campaigns built around clear business goals.",
+      "html": "Reach relevant audiences with campaigns built around clear business goals.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.d3bb0e0b61b6ed10": {
+      "id": "copy.d3bb0e0b61b6ed10",
+      "group": "/services/paid-advertising/",
+      "label": "Paragraph",
+      "value": "Built around your business",
+      "html": "Built around your business",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.0d27aaa3b5fad99d": {
+      "id": "copy.0d27aaa3b5fad99d",
+      "group": "/services/paid-advertising/",
+      "label": "Section heading",
+      "value": "A Clearer Approach to\n Google & Meta Advertising",
+      "html": "A Clearer Approach to<br> Google & Meta Advertising",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.3a9ff82a91b74aa1": {
+      "id": "copy.3a9ff82a91b74aa1",
+      "group": "/services/paid-advertising/",
+      "label": "Paragraph",
+      "value": "Paid advertising can put your business in front of people at the right moment. We shape campaigns around your audience, offer and agreed budget, with clear tracking and regular review.",
+      "html": "Paid advertising can put your business in front of people at the right moment. We shape campaigns around your audience, offer and agreed budget, with clear tracking and regular review.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.a7d210a35d4f3fa1": {
+      "id": "copy.a7d210a35d4f3fa1",
+      "group": "/services/paid-advertising/",
+      "label": "Subheading",
+      "value": "What we can work on together",
+      "html": "What we can work on together",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.3437fc002db1ea06": {
+      "id": "copy.3437fc002db1ea06",
+      "group": "/services/paid-advertising/",
+      "label": "List item",
+      "value": "Google Search advertising",
+      "html": "Google Search advertising",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.2786c8234caa0a03": {
+      "id": "copy.2786c8234caa0a03",
+      "group": "/services/paid-advertising/",
+      "label": "List item",
+      "value": "Facebook and Instagram campaigns",
+      "html": "Facebook and Instagram campaigns",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ea65e924f7a9417b": {
+      "id": "copy.ea65e924f7a9417b",
+      "group": "/services/paid-advertising/",
+      "label": "List item",
+      "value": "Landing-page and creative coordination",
+      "html": "Landing-page and creative coordination",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.66313a97e8f02e66": {
+      "id": "copy.66313a97e8f02e66",
+      "group": "/services/paid-advertising/",
+      "label": "List item",
+      "value": "Conversion tracking and campaign reporting",
+      "html": "Conversion tracking and campaign reporting",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.cec0c31b82acebef": {
+      "id": "copy.cec0c31b82acebef",
+      "group": "/services/paid-advertising/",
+      "label": "Subheading",
+      "value": "Start with your goals",
+      "html": "Start with your goals",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.8013e47a724ed754": {
+      "id": "copy.8013e47a724ed754",
+      "group": "/services/paid-advertising/",
+      "label": "Paragraph",
+      "value": "Tell us about your business, your audience and what you would like to improve. We’ll discuss the scope before the work begins.",
+      "html": "Tell us about your business, your audience and what you would like to improve. We’ll discuss the scope before the work begins.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.de62eaab219bdd71": {
+      "id": "copy.de62eaab219bdd71",
+      "group": "/services/paid-advertising/",
+      "label": "Paragraph",
+      "value": "Your next step",
+      "html": "Your next step",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.57116f175f991277": {
+      "id": "copy.57116f175f991277",
+      "group": "/services/paid-advertising/",
+      "label": "Section heading",
+      "value": "Let’s put your business\n in front of the right people.",
+      "html": "Let’s put your business<br> in front of the right people.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.69c24198d6eb65da": {
+      "id": "copy.69c24198d6eb65da",
+      "group": "/services/paid-advertising/",
+      "label": "Paragraph",
+      "value": "Tell us where you are today and where you want to go.",
+      "html": "Tell us where you are today and where you want to go.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "meta.83e75c5e14.title": {
+      "id": "meta.83e75c5e14.title",
+      "group": "/services/search-engine-optimization/",
+      "label": "Page title",
+      "value": "Search Engine Optimization | Adox Global Ventures Oman",
+      "html": "Search Engine Optimization | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.83e75c5e14.description": {
+      "id": "meta.83e75c5e14.description",
+      "group": "/services/search-engine-optimization/",
+      "label": "Search description",
+      "value": "Help your business get found by people searching for your services in Oman.",
+      "html": "Help your business get found by people searching for your services in Oman.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.5d8ef2d2f73c2d55": {
+      "id": "copy.5d8ef2d2f73c2d55",
+      "group": "/services/search-engine-optimization/",
+      "label": "Paragraph",
+      "value": "Services in Oman",
+      "html": "Services in Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.036be60a079f92df": {
+      "id": "copy.036be60a079f92df",
+      "group": "/services/search-engine-optimization/",
+      "label": "Main heading",
+      "value": "Search Engine Optimization",
+      "html": "Search Engine Optimization",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.45747eeb2b20e4c7": {
+      "id": "copy.45747eeb2b20e4c7",
+      "group": "/services/search-engine-optimization/",
+      "label": "Paragraph",
+      "value": "Help your business get found by people searching for your services in Oman.",
+      "html": "Help your business get found by people searching for your services in Oman.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.4bd6843a3335ac4f": {
+      "id": "copy.4bd6843a3335ac4f",
+      "group": "/services/search-engine-optimization/",
+      "label": "Paragraph",
+      "value": "Built around your business",
+      "html": "Built around your business",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.1efab55704c78270": {
+      "id": "copy.1efab55704c78270",
+      "group": "/services/search-engine-optimization/",
+      "label": "Section heading",
+      "value": "A Clearer Approach to\n Search Engine Optimization",
+      "html": "A Clearer Approach to<br> Search Engine Optimization",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.c9460843dd68eab2": {
+      "id": "copy.c9460843dd68eab2",
+      "group": "/services/search-engine-optimization/",
+      "label": "Paragraph",
+      "value": "Local search visibility, a clear website structure and useful content work together to help customers discover your business. We focus on the details that make your website easier to find and easier to use.",
+      "html": "Local search visibility, a clear website structure and useful content work together to help customers discover your business. We focus on the details that make your website easier to find and easier to use.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.dd88407501557bbc": {
+      "id": "copy.dd88407501557bbc",
+      "group": "/services/search-engine-optimization/",
+      "label": "Subheading",
+      "value": "What we can work on together",
+      "html": "What we can work on together",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.69c1e0da311becc3": {
+      "id": "copy.69c1e0da311becc3",
+      "group": "/services/search-engine-optimization/",
+      "label": "List item",
+      "value": "Website and keyword review",
+      "html": "Website and keyword review",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.0c20e84a31597ae2": {
+      "id": "copy.0c20e84a31597ae2",
+      "group": "/services/search-engine-optimization/",
+      "label": "List item",
+      "value": "On-page and technical SEO",
+      "html": "On-page and technical SEO",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.35317914c1a23a90": {
+      "id": "copy.35317914c1a23a90",
+      "group": "/services/search-engine-optimization/",
+      "label": "List item",
+      "value": "Google Business Profile optimisation",
+      "html": "Google Business Profile optimisation",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.6d54d0329ef20e52": {
+      "id": "copy.6d54d0329ef20e52",
+      "group": "/services/search-engine-optimization/",
+      "label": "List item",
+      "value": "Local content and performance reporting",
+      "html": "Local content and performance reporting",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.50bc07a73f228e4a": {
+      "id": "copy.50bc07a73f228e4a",
+      "group": "/services/search-engine-optimization/",
+      "label": "Subheading",
+      "value": "Start with your goals",
+      "html": "Start with your goals",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.3a38b683590e55db": {
+      "id": "copy.3a38b683590e55db",
+      "group": "/services/search-engine-optimization/",
+      "label": "Paragraph",
+      "value": "Tell us about your business, your audience and what you would like to improve. We’ll discuss the scope before the work begins.",
+      "html": "Tell us about your business, your audience and what you would like to improve. We’ll discuss the scope before the work begins.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.17d86885a6e131e6": {
+      "id": "copy.17d86885a6e131e6",
+      "group": "/services/search-engine-optimization/",
+      "label": "Paragraph",
+      "value": "Your next step",
+      "html": "Your next step",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.7549b0a9242b2840": {
+      "id": "copy.7549b0a9242b2840",
+      "group": "/services/search-engine-optimization/",
+      "label": "Section heading",
+      "value": "Let’s put your business\n in front of the right people.",
+      "html": "Let’s put your business<br> in front of the right people.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.8c0c6d67c4ac8b23": {
+      "id": "copy.8c0c6d67c4ac8b23",
+      "group": "/services/search-engine-optimization/",
+      "label": "Paragraph",
+      "value": "Tell us where you are today and where you want to go.",
+      "html": "Tell us where you are today and where you want to go.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "meta.bb74faafd2.title": {
+      "id": "meta.bb74faafd2.title",
+      "group": "/services/social-media-marketing/",
+      "label": "Page title",
+      "value": "Social Media Marketing | Adox Global Ventures Oman",
+      "html": "Social Media Marketing | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.bb74faafd2.description": {
+      "id": "meta.bb74faafd2.description",
+      "group": "/services/social-media-marketing/",
+      "label": "Search description",
+      "value": "Build a consistent presence and meaningful connections with your audience.",
+      "html": "Build a consistent presence and meaningful connections with your audience.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.b150818ee740c1b2": {
+      "id": "copy.b150818ee740c1b2",
+      "group": "/services/social-media-marketing/",
+      "label": "Paragraph",
+      "value": "Services in Oman",
+      "html": "Services in Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.6622592b64a05777": {
+      "id": "copy.6622592b64a05777",
+      "group": "/services/social-media-marketing/",
+      "label": "Main heading",
+      "value": "Social Media Marketing",
+      "html": "Social Media Marketing",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.2709b54e014d49a5": {
+      "id": "copy.2709b54e014d49a5",
+      "group": "/services/social-media-marketing/",
+      "label": "Paragraph",
+      "value": "Build a consistent presence and meaningful connections with your audience.",
+      "html": "Build a consistent presence and meaningful connections with your audience.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.df03903c6255bc70": {
+      "id": "copy.df03903c6255bc70",
+      "group": "/services/social-media-marketing/",
+      "label": "Paragraph",
+      "value": "Built around your business",
+      "html": "Built around your business",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.b1723ac397fce3d4": {
+      "id": "copy.b1723ac397fce3d4",
+      "group": "/services/social-media-marketing/",
+      "label": "Section heading",
+      "value": "A Clearer Approach to\n Social Media Marketing",
+      "html": "A Clearer Approach to<br> Social Media Marketing",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.4407764a16f8c3f5": {
+      "id": "copy.4407764a16f8c3f5",
+      "group": "/services/social-media-marketing/",
+      "label": "Paragraph",
+      "value": "Your social pages are an ongoing conversation with your customers. We bring planning, creative content and day-to-day consistency together around the way your business wants to be seen.",
+      "html": "Your social pages are an ongoing conversation with your customers. We bring planning, creative content and day-to-day consistency together around the way your business wants to be seen.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.7ab2a8f00f70ceb0": {
+      "id": "copy.7ab2a8f00f70ceb0",
+      "group": "/services/social-media-marketing/",
+      "label": "Subheading",
+      "value": "What we can work on together",
+      "html": "What we can work on together",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.1adb60b3d053dee5": {
+      "id": "copy.1adb60b3d053dee5",
+      "group": "/services/social-media-marketing/",
+      "label": "List item",
+      "value": "Social media strategy and content planning",
+      "html": "Social media strategy and content planning",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.59f9e534bf956cbc": {
+      "id": "copy.59f9e534bf956cbc",
+      "group": "/services/social-media-marketing/",
+      "label": "List item",
+      "value": "Creative posts and short-form content",
+      "html": "Creative posts and short-form content",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.633d54ccf898895a": {
+      "id": "copy.633d54ccf898895a",
+      "group": "/services/social-media-marketing/",
+      "label": "List item",
+      "value": "Profile and page management",
+      "html": "Profile and page management",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.9702d1ea3cd7fa6f": {
+      "id": "copy.9702d1ea3cd7fa6f",
+      "group": "/services/social-media-marketing/",
+      "label": "List item",
+      "value": "Campaign reporting and content review",
+      "html": "Campaign reporting and content review",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.f4a10114940ced97": {
+      "id": "copy.f4a10114940ced97",
+      "group": "/services/social-media-marketing/",
+      "label": "Subheading",
+      "value": "Start with your goals",
+      "html": "Start with your goals",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.e770a98189290cd7": {
+      "id": "copy.e770a98189290cd7",
+      "group": "/services/social-media-marketing/",
+      "label": "Paragraph",
+      "value": "Tell us about your business, your audience and what you would like to improve. We’ll discuss the scope before the work begins.",
+      "html": "Tell us about your business, your audience and what you would like to improve. We’ll discuss the scope before the work begins.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.fef3110aa2f0d242": {
+      "id": "copy.fef3110aa2f0d242",
+      "group": "/services/social-media-marketing/",
+      "label": "Paragraph",
+      "value": "Your next step",
+      "html": "Your next step",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.3b8e90e1d4f3a80e": {
+      "id": "copy.3b8e90e1d4f3a80e",
+      "group": "/services/social-media-marketing/",
+      "label": "Section heading",
+      "value": "Let’s put your business\n in front of the right people.",
+      "html": "Let’s put your business<br> in front of the right people.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.8e66a24e823972e5": {
+      "id": "copy.8e66a24e823972e5",
+      "group": "/services/social-media-marketing/",
+      "label": "Paragraph",
+      "value": "Tell us where you are today and where you want to go.",
+      "html": "Tell us where you are today and where you want to go.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "meta.37c01f5e9f.title": {
+      "id": "meta.37c01f5e9f.title",
+      "group": "/services/web-design-development/",
+      "label": "Page title",
+      "value": "Website Design & Development | Adox Global Ventures Oman",
+      "html": "Website Design &amp; Development | Adox Global Ventures Oman",
+      "kind": "title",
+      "maxLength": 2500
+    },
+    "meta.37c01f5e9f.description": {
+      "id": "meta.37c01f5e9f.description",
+      "group": "/services/web-design-development/",
+      "label": "Search description",
+      "value": "Give customers a clear, mobile-friendly way to discover and contact your business.",
+      "html": "Give customers a clear, mobile-friendly way to discover and contact your business.",
+      "kind": "attribute",
+      "maxLength": 500
+    },
+    "copy.3573a0ed9717a9b0": {
+      "id": "copy.3573a0ed9717a9b0",
+      "group": "/services/web-design-development/",
+      "label": "Paragraph",
+      "value": "Services in Oman",
+      "html": "Services in Oman",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.d0b0fd102ecc2e98": {
+      "id": "copy.d0b0fd102ecc2e98",
+      "group": "/services/web-design-development/",
+      "label": "Main heading",
+      "value": "Website Design & Development",
+      "html": "Website Design & Development",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.07f27b709a61cde3": {
+      "id": "copy.07f27b709a61cde3",
+      "group": "/services/web-design-development/",
+      "label": "Paragraph",
+      "value": "Give customers a clear, mobile-friendly way to discover and contact your business.",
+      "html": "Give customers a clear, mobile-friendly way to discover and contact your business.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.ca06d24f8ab3df1c": {
+      "id": "copy.ca06d24f8ab3df1c",
+      "group": "/services/web-design-development/",
+      "label": "Paragraph",
+      "value": "Built around your business",
+      "html": "Built around your business",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.bb136960ca083332": {
+      "id": "copy.bb136960ca083332",
+      "group": "/services/web-design-development/",
+      "label": "Section heading",
+      "value": "A Clearer Approach to\n Website Design & Development",
+      "html": "A Clearer Approach to<br> Website Design & Development",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.a69712d8267eb23f": {
+      "id": "copy.a69712d8267eb23f",
+      "group": "/services/web-design-development/",
+      "label": "Paragraph",
+      "value": "A good website explains what you do, makes your business easy to trust, and helps visitors take the next step. We design and develop websites around your content, your customers and your goals.",
+      "html": "A good website explains what you do, makes your business easy to trust, and helps visitors take the next step. We design and develop websites around your content, your customers and your goals.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.f761dac0269087f3": {
+      "id": "copy.f761dac0269087f3",
+      "group": "/services/web-design-development/",
+      "label": "Subheading",
+      "value": "What we can work on together",
+      "html": "What we can work on together",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.d0f8bf04f5f0e264": {
+      "id": "copy.d0f8bf04f5f0e264",
+      "group": "/services/web-design-development/",
+      "label": "List item",
+      "value": "Business websites and landing pages",
+      "html": "Business websites and landing pages",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.b97d8a5104a15f7f": {
+      "id": "copy.b97d8a5104a15f7f",
+      "group": "/services/web-design-development/",
+      "label": "List item",
+      "value": "Responsive layouts for phones and desktop",
+      "html": "Responsive layouts for phones and desktop",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.b50fb3f4669e5111": {
+      "id": "copy.b50fb3f4669e5111",
+      "group": "/services/web-design-development/",
+      "label": "List item",
+      "value": "E-commerce website development",
+      "html": "E-commerce website development",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.e0431413891bb291": {
+      "id": "copy.e0431413891bb291",
+      "group": "/services/web-design-development/",
+      "label": "List item",
+      "value": "Website updates and maintenance",
+      "html": "Website updates and maintenance",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.4440f6b9e8a84446": {
+      "id": "copy.4440f6b9e8a84446",
+      "group": "/services/web-design-development/",
+      "label": "Subheading",
+      "value": "Start with your goals",
+      "html": "Start with your goals",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.567cf8b8ab902737": {
+      "id": "copy.567cf8b8ab902737",
+      "group": "/services/web-design-development/",
+      "label": "Paragraph",
+      "value": "Tell us about your business, your audience and what you would like to improve. We’ll discuss the scope before the work begins.",
+      "html": "Tell us about your business, your audience and what you would like to improve. We’ll discuss the scope before the work begins.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.0f455eccb077108d": {
+      "id": "copy.0f455eccb077108d",
+      "group": "/services/web-design-development/",
+      "label": "Paragraph",
+      "value": "Your next step",
+      "html": "Your next step",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.153535c11f676a91": {
+      "id": "copy.153535c11f676a91",
+      "group": "/services/web-design-development/",
+      "label": "Section heading",
+      "value": "Let’s put your business\n in front of the right people.",
+      "html": "Let’s put your business<br> in front of the right people.",
+      "kind": "text",
+      "maxLength": 2500
+    },
+    "copy.712c6d103914de51": {
+      "id": "copy.712c6d103914de51",
+      "group": "/services/web-design-development/",
+      "label": "Paragraph",
+      "value": "Tell us where you are today and where you want to go.",
+      "html": "Tell us where you are today and where you want to go.",
+      "kind": "text",
+      "maxLength": 2500
+    }
+  }
+}

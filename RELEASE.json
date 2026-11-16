@@ -1,0 +1,19 @@
+{
+  "project": "Adox Global Ventures Oman website with admin",
+  "export_date": "2026-11-15",
+  "website_version": 4,
+  "source_commit": "c1b0b7a7ecd568cea39ea008864cb64e18346e3b",
+  "deployment_status": "succeeded",
+  "implementation_matches_deployed_source": true,
+  "export_changes": [
+    "Removed live project_id from .openai/hosting.json; retained DB binding declaration.",
+    "Excluded unused example code, build artifacts, Git history, dependencies, local runtime state and all runtime environment settings.",
+    "Added owner editing guide, release provenance and checksum manifest."
+  ],
+  "server_required": true,
+  "database": "Cloudflare D1 binding DB",
+  "authentication": "Existing Sites ChatGPT owner identity in private preview; other hosts require a verified auth adapter.",
+  "automated_tests_passed": 14,
+  "hosted_owner_session_save_verified": false,
+  "production_database_included": false
+}
